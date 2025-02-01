@@ -1,0 +1,6 @@
+{
+  "name": "iduka-mart_backend",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "iduka-mart_backend/src",
+  "tags": []
+}
